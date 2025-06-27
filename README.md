@@ -2,8 +2,8 @@
 Protótipo de pagina de atendimento integrada com uma I.A adaptativa feito para melhorar o atendimento ao cliente. A I.A irá se adaptar ao usuário para trazer uma experiencia única pro atendimento, sem o uso de chatbots com respostas genéricas, assim trazendo respostas personalizadas conforme o problema.
 
 # Tecnologias
-linguagem de programação Python
-framework flet para desenvolvimento de interfaces responsivas em flutter
+linguagem de programação Python.
+framework flet para desenvolvimento de interfaces responsivas em flutter.
 LLM llama-3.3-70b-versatile do Groq, para criar o chatbot.
 
 # addendo sobre a I.A
@@ -12,4 +12,4 @@ esse código é apenas um protótipo, para demonstrar a experiencia do usuário.
 a I.A nao foi treinada.
 
 # como rodar
-Tenha o Python 3.11 instalado na máquina, mova os arquivos para uma pasta e 
+Tenha o Python 3.11 instalado na máquina, mova os arquivos para uma pasta e rode o código main.py.
